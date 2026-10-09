@@ -1,4 +1,4 @@
----
+wfqwfqwfqwfqwf---
 name: api-types
 description: Maintain Supabase API types. Use when changing generated API type declarations, OpenAPI schemas, or investigating API type deployment drift.
 ---
